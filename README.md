@@ -111,12 +111,10 @@ curl -X POST http://localhost:5000/todos \
 
 ## Docker Hub Image
 
-Pushed image: `https://hub.docker.com/r/<your-dockerhub-username>/todo-api`
+Pushed image: `https://hub.docker.com/r/hhanaahmedd/todo-api`
 
 Pull it directly:
-```bash
-docker pull <your-dockerhub-username>/todo-api
-```
+docker pull hhanaahmedd/todo-api
 
 ## Screenshots
 
