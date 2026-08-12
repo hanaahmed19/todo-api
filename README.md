@@ -42,8 +42,7 @@ todo-api/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/todo-api.git
-   cd todo-api
+   git clone https://github.com/hanaahmed19/todo-api.git
    ```
 
 ## How to Run the Project Locally (without Docker)
